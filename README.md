@@ -144,6 +144,7 @@ By completing this repository, you will be able to:
 ✔ Build a strong foundation for advanced Python, Data Science, and Machine Learning.
 
 🛠 Technologies Used
+
 Python
 Jupyter Notebook
 
