@@ -146,8 +146,6 @@ By completing this repository, you will be able to:
 🛠 Technologies Used
 Python
 Jupyter Notebook
-⭐ Support
 
-If you find this repository helpful, please consider giving it a ⭐ on GitHub.
 
 Happy Coding! 🚀
