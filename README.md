@@ -143,11 +143,6 @@ By completing this repository, you will be able to:
 ✔ Work with files and handle exceptions effectively.
 ✔ Build a strong foundation for advanced Python, Data Science, and Machine Learning.
 
-🚀 Getting Started
-Clone the Repository
-git clone https://github.com/your-username/Basic-Python.git
-Run Python Files
-python filename.py
 🛠 Technologies Used
 Python
 Jupyter Notebook
